@@ -1,0 +1,17 @@
+{
+    "hDfSw$R6c|{": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAABVBQAAAAAAAMwMAAAAAAAALAwAAAAAAAAiAgAAAAAAACAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Projectile"
+    },
+    "1F674T": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIAIAAAAAAAApAgAAAAAAkJkCAAAAAACQmQIAAAAAAAApBQAAAAAAACBVAAAAAAAAIFUFAAAAAAAgAgAAAAAAACUCAAAAAABQ9Q8AAAAAAABABAAAAAAAAEAEAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Bogey"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
